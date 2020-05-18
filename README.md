@@ -6,6 +6,8 @@ The project is about:
 2. If a human's image is given as input, the model should identify the image as a human and predict the dog's breed, which would resemble the human face.
 3. If any other image is given as input, the model should say that the image is neither human nor dog.
 
+Blog post for this code is at [Medium blog](https://medium.com/@lakshmikumar.k_5020/dog-breed-classification-using-deep-learning-f224a6ea59e1)
+
 ## Motivation:
 This project is part of Udacity 'Data science nano degree' program. Image recognition using convolutional neural networks is very interesting.
 
