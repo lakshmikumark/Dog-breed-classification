@@ -1,7 +1,7 @@
 # Dog-breed-classification
 
 ## Project overview
-The goal of this project is:
+The project is about:
 1. If a dog's image is given as input, the model should identify the image as a dog and predict the dog's breed.
 2. If a human's image is given as input, the model should identify the image as a human and predict the dog's breed, which would resemble the human face.
 3. If any other image is given as input, the model should say that the image is neither human nor dog.
